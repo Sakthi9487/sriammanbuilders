@@ -1,0 +1,115 @@
+[
+  {
+    "id": 1,
+    "title": "Luxury Residential",
+    "category": "Residential",
+    "location": "Tamilnadu, India",
+    "value": "$2.5M",
+    "duration": "4 Months",
+    "images": [
+      "/Project/com-1.jpg",
+      "/Project/com1-0.jpg",
+      "/Project/com2-1.jpg",
+      "/Project/com2-4.jpg"
+      
+    ],
+       "description": "Modern 120-unit residential complex with premium amenities and sustainable design features."
+  },
+  {
+    "id": 2,
+    "title": "Premium Residential",
+    "category": "Commercial",
+    "location": "Tamilnadu, India",
+    "value": "$5.2M",
+    "duration": "4 Months",
+    "images": [
+      "/Project/com-2.jpg", 
+      "/Project/com2-2.jpg",
+      "/Project/com2-3.jpg",
+      "/Project/com2-5.jpg"
+    ],
+    "description": "25-story modern office building with state-of-the-art facilities and smart building technology."
+  },
+  {
+    "id": 3,
+    "title": "Town House",
+    "category": "Industrial",
+    "location": "Tamilnadu, India",
+    "value": "$3.8M",
+    "duration": "3 Months",
+    "images": [
+      "/Project/com-3.jpg",
+      "/Project/com3-1.jpg",
+      "/Project/com3-2.jpg",
+      "/Project/com3-3.jpg"
+    ],
+    "description": "Large-scale textile manufacturing facility with modern equipment and efficient workflow design."
+  },
+  {
+    "id": 4,
+    "title": "Custom Residential",
+    "category": "Commercial",
+    "location": "Tamilnadu, India",
+    "value": "$4.1M",
+    "duration": "4 Months",
+    "images": [
+      "/Project/com-4.jpg",
+     "/Project/com4-1.jpg",
+      "/Project/com4-2.jpg"    
+    ],
+    "description": "Multi-level shopping center with entertainment zones, food courts, and parking facilities."
+  },
+  {
+    "id": 5,
+    "title": "Residential Villas",
+    "category": "Residential",
+    "location": "Tamilnadu, India",
+    "value": "$1.8M",
+    "duration": "4 Months",
+    "images": [
+       "/Project/com-1.jpg",
+      "/Project/com-2.jpg",
+      "/Project/com-3.jpg"
+    ],
+    "description": "Luxury villa development with 15 custom-designed homes featuring modern architecture."
+  },
+  {
+    "id": 6,
+    "title": "House Warming Residential",
+    "category": "Residential",
+    "location": "Tamilnadu, India",
+    "value": "$2.2M",
+    "duration": "7 Years",
+    "images": [
+      "/Project/last/001.jpg",
+      "/Project/last/002.jpg",
+      "/Project/last/003.jpg",
+      "/Project/last/004.jpg",
+      "/Project/last/005.jpg",
+      "/Project/last/006.jpg",
+      "/Project/last/007.jpg",
+      "/Project/last/008.jpg",
+      "/Project/last/009.jpg",
+      "/Project/last/010.jpg",
+      "/Project/last/011.jpg",
+      "/Project/last/012.jpg",
+      "/Project/last/013.jpg",
+      "/Project/last/014.jpg",
+      "/Project/last/015.jpg",
+      "/Project/last/016.jpg",
+      "/Project/last/017.jpg",
+      "/Project/last/018.jpg",
+      "/Project/last/019.jpg",
+      "/Project/last/020.jpg",
+      "/Project/last/021.jpg",
+      "/Project/last/022.jpg",
+      "/Project/last/023.jpg",
+      "/Project/last/024.jpg",
+      "/Project/last/025.jpg",
+      "/Project/last/026.jpg",
+      "/Project/last/000.jpg",
+      "/Project/last/-001.jpg"
+    ],
+    "description": "Sri Amman Builders has successfully completed an Multiple Residential project, showcasing our expertise in delivering high-quality construction solutions. The project involved the construction of a state-of-the-art warehouse complex, designed to meet the specific needs of our client. With meticulous attention to detail and a commitment to excellence, we ensured that the project was completed on time and within budget. Our team of skilled professionals worked tirelessly to deliver a facility that not only meets but exceeds industry standards, providing our client with a functional and efficient space for their operations."
+  }
+]
