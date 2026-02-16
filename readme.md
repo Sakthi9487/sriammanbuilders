@@ -28,7 +28,6 @@ This project is a **single-page, fully responsive web platform** designed to:
 * Provide a **dynamic portfolio** with category filtering.
 * Offer an **engaging client testimonial experience**.
 * Ensure a **seamless communication channel** via contact form.
-* Deliver an **admin-controlled dashboard** for project updates.
 
 ---
 
